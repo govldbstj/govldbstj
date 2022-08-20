@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @govldbstj
 - 👀 I’m interested in web fullstack engineering & machine learning
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning React native with Firebase
 - 💞️ 2022.08.16 ~ 2025.05.12 1000 commit challenge & coding test
 ------------------------------------------------------------------------
 220816 25304<br/>
