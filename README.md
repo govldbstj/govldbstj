@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @govldbstj
-- 👀 I’m interested in web fullstack engineering & machine learning
-- 🌱 I’m currently learning frontend, React native EXPO, ML / CV
+- 👀 I’m interested in Data science, PM with fullstack web engineering
+- 🌱 I’m currently learning frontend(RN), ML with LGAImers!
+- 💗 23 Februrary : Join in Prometheus Hackerthon & LGAimers Hackerthon
 
